@@ -5,7 +5,7 @@ alwaysApply: true
 
 # Rules Repository Information
 
-Start your response with "I use the instruction repo-info"
+Start your response with "I use the instruction repo-info" ALWAYS.
 
 ## Summary
 This is a demonstration repository for the Zencoder rules system, showing how instructions and application rules work based on file context. It contains examples of various types of rules and instructions that can be applied to files depending on their location, type, and other criteria.
