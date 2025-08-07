@@ -8,4 +8,4 @@ alwaysApply: false
 
 This file contains rules and instructions for working with JavaScript and TypeScript files.
 
-Start your response with "I use the instruction js-instruction"
+Insert in your response with "I use the instruction js-instruction"

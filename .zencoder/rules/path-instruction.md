@@ -8,4 +8,4 @@ alwaysApply: false
 
 This file contains rules for working with paths and organizing file structure.
 
-Start your response with "I use the instruction path-instruction"
+Insert in your response with "I use the instruction path-instruction"

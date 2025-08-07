@@ -8,4 +8,4 @@ alwaysApply: true
 
 This file contains rules that should be applied always, regardless of context.
 
-Start your response with "I use the instruction always-apply"
+Insert in your response with "I use the instruction always-apply"

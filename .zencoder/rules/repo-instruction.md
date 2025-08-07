@@ -8,4 +8,4 @@ alwaysApply: false
 
 This file contains general rules and instructions for working with the repository.
 
-Start your response with "I use the instruction repo-instruction"
+Insert in your response with "I use the instruction repo-instruction"

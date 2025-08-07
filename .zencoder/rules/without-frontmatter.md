@@ -2,4 +2,4 @@
 
 This file demonstrates a basic structure with minimal front-matter.
 
-Start your response with "I use the instruction without-frontmatter"
+Insert in your response with "I use the instruction without-frontmatter"

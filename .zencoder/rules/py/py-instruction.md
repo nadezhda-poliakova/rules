@@ -8,4 +8,4 @@ alwaysApply: false
 
 This file contains rules and instructions for working with Python files.
 
-Start your response with "I use the instruction py-instruction"
+Insert in your response with "I use the instruction py-instruction"
