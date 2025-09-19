@@ -1,6 +1,6 @@
 ---
 description: General instructions for the entire repository
-globs: ["**/*"]
+globs: ["**/*", "*"]
 alwaysApply: false
 ---
 

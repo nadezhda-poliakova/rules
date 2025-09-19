@@ -1,6 +1,6 @@
 ---
 description: Instructions for Python files
-globs: ["**/*.py"]
+globs: ["**/*.py", "*.py"]
 alwaysApply: false
 ---
 

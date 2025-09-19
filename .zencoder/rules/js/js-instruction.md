@@ -1,6 +1,6 @@
 ---
 description: Instructions for JavaScript files
-globs: ["**/*.js", "**/*.jsx", "**/*.ts", "**/*.tsx"]
+globs: ["**/*.js", "**/*.jsx", "**/*.ts", "**/*.tsx, *.js", "*.jsx", "*.ts", "*.tsx"]
 alwaysApply: false
 ---
 
