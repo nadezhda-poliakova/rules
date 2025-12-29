@@ -1,6 +1,6 @@
 ---
 description: Instructions for working with paths and file structure
-globs: ["**/special-path/**/*", "special-path/**/*"]
+globs: ["**/special-path/**/*", "special-path/**"]
 alwaysApply: false
 ---
 
