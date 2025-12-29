@@ -35,3 +35,7 @@ Implement the task directly based on the task description.
 4. Perform basic manual verification if applicable
 
 Save a brief summary of what was done to `{@artifacts_path}/report.md` if significant changes were made.
+
+### [x] Step: Create another one
+<!-- chat-id: aac18cc2-b502-41aa-8adb-f5be7d67264d -->
+<!-- agent: ZEN_CLI -->
