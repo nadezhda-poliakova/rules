@@ -1,0 +1,20 @@
+{
+  "name": "rules",
+  "version": "1.0.0",
+  "description": "This is a demonstration repository for the Zencoder rules system, showing how instructions and application rules work based on file context.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadezhda-poliakova/rules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadezhda-poliakova/rules/issues"
+  },
+  "homepage": "https://github.com/nadezhda-poliakova/rules#readme"
+}
